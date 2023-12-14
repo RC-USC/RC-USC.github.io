@@ -6,7 +6,7 @@ With the involvement of the US Justice Department, the reform caucus pushed for 
 
 In 2021 Dec, the reform caucus won the referendum for One Member, One Vote. 
 
-In 2023 March, the reform caucus also won the election of UAW president.
+In 2023 Mar, the reform caucus also won the election of UAW president.
 
 In 2023 Nov, the reform caucus led and won the Big 3 contract.
 
