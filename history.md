@@ -1,8 +1,9 @@
 ---
 layout: page
+title: How this Caucuse was formed 
 comments: true
+author: Reform Caucus at USC
 ---
-# How this Caucuse was formed 
 ## International student
 In spring 2019, a few Chinese international GSW started to mobilize Chinese students to form a union. In spring 2022, they started the GSWOC international student committee with student from other countries, with the goal to organize and advocate for international students. The committee is a place for international students to discuss any issues related to their life and organize to make things better. They organized events for international students to ask questions about the union; and events for discussions about things people want to change via bargaining.
 

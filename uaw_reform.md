@@ -1,7 +1,7 @@
 ---
 layout: page
+title: Short UAW reform history
 ---
-## Short UAW reform history
 For decades, the UAW top leaders were elected by delegates chosen by regional directors, controlled by the "Administrative Caucus"(AC). 
 
 In recent years, a dozen UAW top officials were convicted in federal court of taking at least $3.5 million in illegal deals and/or stealing $1.5 million in union funds. The conspiracy lasted till 2019 when the scandal broke out.
