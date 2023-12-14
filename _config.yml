@@ -20,9 +20,9 @@ author: Reform Caucus at USC GSWOC
 ###############################################
 
 navbar-links:
-  About Us: "about"
   Histroy: "history"
-  Update signup / Join chat: "https://RC-USC.github.io/about#Contact"
+  About Us: "about"
+  Email Update / Join chat: "https://forms.gle/kipC9gJbQqYJ9otY7"
   # Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
