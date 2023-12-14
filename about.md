@@ -13,7 +13,9 @@ We are organizers in GSWOC who believe in:
 **Transparent & Democratic Decision Making**
 
 We want more union members to join the decision-making process of anything related to themselves.
-We aim to increase the transparency and accessibility of the decision-making process, so more people can get involved.
+We aim to increase the transparency and accessibility of the decision-making process, so more people can get involved. 
+
+[Read more about Union reform history in UAW](https://rc-usc.github.io/uaw_reform)
 
 **Support marginalized workers**
 
