@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Archive) BIPOC Committee Statement of Values (2020)
+title: "[Archive] BIPOC Committee Statement of Values (2020)"
 tags: [archive]
 comments: true
 author: GSWOC

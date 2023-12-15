@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Email update -- Wage and decision making
+title: "Email update: Wage and decision making"
 tags: [update]
 comments: true
 author: Reform Caucus at USC
