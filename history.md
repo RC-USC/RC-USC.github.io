@@ -22,7 +22,7 @@ In 2021, they had events for discussion of Race, Labour and Unionization; Coalit
 
 **Reading group**
 
-In summer 2021, people started a reading group.
+In the summer of 2021, there was a reading group. People read essays in books like Strike for the Common Good: Fighting for the Future of Public Education, describing how teachers in LA fought and won demands not just for themself, but also for students and parents, e.g.: "a nurse in every school five days a week, a librarian in all secondary schools, and counselor-student ratios of 1:500; hard caps on class size and size reductions every year;". Those wins were made possible by a strong coalition between teachers and the community that supports them.
 
 ## GSWOC history
 GSWOC was founded in 2016 by doctoral students at USC. Believing in recognizing the work we do as labor, and the need for collective bargaining power--which Graduate Student Government (GSG) does not have--graduate students began a campaign to form a union. Despite USC’s hostility to unionization, our campaign has put important pressure on university administrators. One of GSWOC’s earliest priorities was to address the dramatic discrepancies in doctoral stipends. In 2016, USC doctoral student employees typically earned an annual salary between $21K and $26.5K,  at stipend rates which hadn’t been adjusted for inflation in nearly a decade. In early 2017, USC announced that all doctoral stipends would be raised to a universal baseline of $26K that Fall  and then $30K in 2018.
