@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Short UAW reform history
+title: Recent UAW reforms
 ---
 For decades, the UAW top leaders were elected by delegates chosen by regional directors, controlled by the "Administrative Caucus"(AC). 
 
