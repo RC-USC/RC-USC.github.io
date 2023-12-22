@@ -23,7 +23,7 @@ We aim to increase the transparency and accessibility of the decision-making pro
 
 * **We want to realize promises.** In 2023 bargaining, the bargaining team responded to many demands from international students and other marginalized workers by saying, "It is difficult to bargain, we can fight for it as a union after this bargaining", and "We can provide this as a union”. .e.g.: better support for incoming international students, and better healthcare coverage.
 
-* **We want to change union culture.** People get into conversations like: "better wage can benefit everyone"; win as many core demands as possible. We want people to be empowered and demands to be kept at the bargaining table till the last minute. We don't want to set priority as our bargaining team did. 
+* **We want to change union culture.** People get into conversations like: "better wage can benefit everyone"; win as many core demands as possible. We want people to be empowered and demands to be kept at the bargaining table till the last minute. We don't want to lower the priority of demands from marginalized community. 
 
 We want to be a platform for workers to campaign for themselves. We are happy to help organize events and advertising events through our platform.
 
