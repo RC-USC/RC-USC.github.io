@@ -13,7 +13,7 @@ We are organizers in GSWOC who believe in:
 **Transparent & Democratic Decision Making**
 
 We want more union members to join the decision-making process of anything related to themselves.
-We aim to increase the transparency and accessibility of the decision-making process, so more people can get involved. 
+We aim to increase the transparency and accessibility of the decision-making process.
 
 [Read more about Union reform in UAW](https://rc-usc.github.io/uaw_reform)
 
@@ -21,11 +21,11 @@ We aim to increase the transparency and accessibility of the decision-making pro
 
 **Support marginalized workers**
 
-* **We want to realize promises.** In 2023 bargaining, the bargaining team responded to many demands from international students and other marginalized workers by saying, "It is difficult to bargain, we can fight for it as a union after this bargaining", and "We can provide this as a union”. .e.g.: better support for incoming international students, and better healthcare coverage.
+* **We want to realize promises.** In 2023 bargaining, the bargaining team responded to many demands by saying, "It is difficult to bargain, we can fight for it as a union after this bargaining", and "We can provide this as a union”. We listed those promises [here](https://rc-usc.github.io/issues_left).
 
 * **We want to change union culture.** People get into conversations like: "better wage can benefit everyone"; win as many core demands as possible. We want people to be empowered and demands to be kept at the bargaining table till the last minute. We don't want to lower the priority of demands from marginalized community. 
 
-We want to be a platform for workers to campaign for themselves. We are happy to help organize events and advertising events through our platform.
+* **We want to be a platform for workers to campaign for themselves.** We are happy to help organize events and advertising events through our platform.
 
 # Contact
 You can email us at reform.caucus.at.usc.gswoc@proton.me
