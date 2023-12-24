@@ -7,7 +7,6 @@ author: Rao
 There were many offsets in our unionization campaign. Many people had disagreements, felt hurt, and left. One UAW staff once said to me, "If you want to make something happen, you need to build up power. It is like growing a snowball" And the people who started this caucus choose to keep building up power and organize at **every** opportunity.
 
 # If leaders disagree with you, organize on your own!
-You don't need **any permission from current leaders**.
 >If your leaders aren’t the ones you hoped for, it may be up to you to change the culture and shape the future of your union. The first step is to get past disappointment or despair. Commit to action.
 
 >As in any union situation, don’t act alone. Talk to other co-workers. Your purpose isn’t to convince anyone, but to ask questions. For example:  How do you think we’re doing, as a union?
@@ -17,6 +16,8 @@ You don't need **any permission from current leaders**.
 > Your leaders may reject your suggestions. But don’t attack the leader, or spread hostility. Instead, figure out a way to build a base and take action. 
 >Find a cluster of other union members who are ready to do something. 
 > You may want to keep your leaders informed, but don’t ask for their permission. If there’s inadequate information flowing in the union, start an informal channel to share and solicit ideas
+
+You don't need **any permission from current leaders**.
 
 https://labornotes.org/2020/02/stewards-corner-what-do-when-your-union-leaders-break-your-heart
 
@@ -28,6 +29,13 @@ These are the three basic steps of organizing. And you can build up power by ite
 
 ## Keep escalating and growing up power, don't stop
 It is very likely that you won't succeed with your first attempt, but don't give up. Our bargaining campaign is based on escalating, the same is true for rank-and-file organizing. If your union leaders think you are only a small number of people and try to ignore you, don't give up, keep on growing your influence in your union. I was asked by our bargaining team "Are you the only one thinking so?", "Who else thinks the same?". People may fear speaking up against union leaders, and maybe worried about retaliation like sidelining. I choose to speak up alone or with only a few people. But you can do it differently.
+
+# Transparency and democracy can change everything
+All establishments don't want change, they hide everything they did wrong, which is also true for union leaders.
+Don't overlook the importance of transparency. There was an event by [Stop LAPD Spying](https://stoplapdspying.org/) with several USC student organizations. The person mentioned that LAPD tried to hide police brutality, but they used transparency law to hold those police accountable. They also build coalition with policymakers, trying to improve the transparency law. They have Cop-Watch videos of how cops were beating people and use their [database](https://watchthewatchers.net/about) to trace the cop. They use those information to educate people about the police system and promote social change. They campaign whenever something happens, which is reactive organizing. They also organize on a regular basis. It is very similar for us in our union.
+
+
+
 # How to organize a caucus?
 We didn't do it well, but here are some suggestions for future leaders. Some are based on our failures.
 * **Listen and talk**:
