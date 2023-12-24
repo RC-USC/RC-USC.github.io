@@ -5,9 +5,11 @@ comments: true
 author: Reform Caucus at USC
 ---
 ## International student
-In spring 2019, a few Chinese international GSW started to mobilize Chinese students to form a union. In spring 2022, they started the GSWOC international student committee with student from other countries, with the goal to organize and advocate for international students. The committee is a place for international students to discuss any issues related to their life and organize to make things better. They organized events for international students to ask questions about the union; and events for discussions about things people want to change via bargaining.
+In the spring of 2019, a few Chinese international GSWs started to mobilize Chinese students to form a union. In the spring of 2022, they realized that international students are an important part of GSWs, but usually get marginalized, as in Fall 2022, [51% percents](https://graduateschool.usc.edu/about-us/phd-program-characteristics/) of newly enrolled PhD students are international. They found that in other unions, many of international students' demands were dropped during the bargaining. They believe that international students should organize themself to have their voice in our union. So, they started the GSWOC International Student Committee with students from other countries, with the goal of organizing and advocating for international students. 
 
-During the bargaining, some of them realized a democratic & transparent union, and social-justice unionism is important for both advocating rights for marginalized worker and issues that impact everyone,.e.g. wage. Especially after connecting with other groups and experencing intersection of identities, they began to build coalition and started this caucus.
+The committee is a place for international students to discuss any issues related to their lives and organize to make things better. They organized events for international students to ask questions about the union; and events for discussions about things people want to change via bargaining.
+
+During the bargaining, some of them realized a democratic & transparent union and social-justice unionism is important for advocating the rights of marginalized workers and issues like wages that impact everyone. Especially after connecting with other groups and experiencing the intersection of identities, they began to build coalition and started this caucus.
 
 ## Social-justice unionism in GSWOC
 **Statement of value**
