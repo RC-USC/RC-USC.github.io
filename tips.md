@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Tips & Reflection
+title: Tips & Reflection (by Rao)
 author: Rao
 ---
 # Long-term activism -- Never give up, Never stop campaign
-There were many offsets in our unionization campaign. Many people had disagreements, felt hurt, and left. "If you want to make something happen, you need to build up power. It is like growing a snowball" The people who started this caucus choose to keep building up power and organize at **every** opportunity.
+There were many offsets in our unionization campaign. Many people had disagreements, felt hurt, and left. One UAW staff once said to me, "If you want to make something happen, you need to build up power. It is like growing a snowball" And the people who started this caucus choose to keep building up power and organize at **every** opportunity.
 
 # If leaders disagree with you, organize on your own!
 You don't need **any permission from current leaders**.
@@ -24,12 +24,14 @@ https://labornotes.org/2020/02/stewards-corner-what-do-when-your-union-leaders-b
 These are the three basic steps of organizing. And you can build up power by iterating them at **every** opportunity.
 * **Educate**: Many people may don't know what happened or how bad it is. People are always busy. You need to talk with them and share information. .e.g. At the last chance action picket line, I talked with people on the picket line, asking them what is their expectation of wage, and asking them do they know our current wage proposal. Surprisingly, no one knows our current wage proposal. You can print booklets and spread them out at the picket line, it is your right to do so.
 * **Agitate**: You need to motivate people, and let them know the current situation is not okay and change is necessary.
-* **Organize**: You need to turn things into action.
+* **Organize**: You need to turn feelings into action.
 
+## Keep escalating and growing up power, don't stop
+It is very likely that you won't succeed with your first attempt, but don't give up. Our bargaining campaign is based on escalating, the same is true for rank-and-file organizing. If your union leaders think you are only a small number of people and try to ignore you, don't give up, keep on growing your influence in your union. I was asked by our bargaining team "Are you the only one thinking so?", "Who else thinks the same?". People may fear speaking up against union leaders, and maybe worried about retaliation like sidelining. I choose to speak up alone or with only a few people. But you can do it differently.
 # How to organize a caucus?
 We didn't do it well, but here are some suggestions for future leaders. Some are based on our failures.
 * **Listen and talk**:
 Don't assume anything, be humble, ask more open-ended questions, and encourage people to express their opinions.
-* **One-on-one conversation**: Group chat doesn't always work. People can easily get out of the loop when things are happening too fast. If you find people are lost, you may need to talk with them one-on-one in person. There was a case when a person failed to follow up, and we spent about one hour talking about what recently happened.
+* **One-on-one conversation**: Group chat doesn't always work. People can easily get out of the loop when things are happening too fast. If you find people are lost, you may need to talk with them one-on-one in person. There was a case when a person failed to follow up, and we spent more than one hour talking about what happened just in recent weeks.
 * **Be transparent**: Share everything you know, good and bad. If your union leader is not sharing information, not telling people there are other options, but you are sharing people those information, people will trust you better.
 * **Social events, get some food**: We started in someone's kitchen/restaurant and people meet for food very often.
