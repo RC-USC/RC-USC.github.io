@@ -15,9 +15,7 @@ We are organizers in GSWOC who believe in:
 We want more union members to join the decision-making process of anything related to themselves.
 We aim to increase the transparency and accessibility of the decision-making process.
 
-[Read more about Union reform in UAW](https://rc-usc.github.io/uaw_reform)
-
-[Read more about Union reform in UC](https://rc-usc.github.io/uc_reform)
+Read more about [Union reform in UAW](https://rc-usc.github.io/uaw_reform) and [Union reform in UC](https://rc-usc.github.io/uc_reform)
 
 **Support marginalized workers**
 
