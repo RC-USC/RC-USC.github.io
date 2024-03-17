@@ -1,14 +1,22 @@
-For decades, the UAW top leaders were elected by delegates chosen by regional directors, controlled by the "Administrative Caucus"(AC). In recent years, a dozen UAW top officials were convicted in federal court of taking at least $3.5 million in illegal deals and/or stealing $1.5 million in union funds. The conspiracy lasted till 2019 when the scandal broke out.
+---
+layout: page
+title: Recent UAW reforms
+---
+For decades, the UAW top leaders were elected by delegates chosen by regional directors, controlled by the "Administrative Caucus"(AC). 
 
-After the corruption scandal broke out in 2019, rank-and-file organizers in UAW formed the reform caucus: Unite All Workers for Democracy (UAWD). Their slogan is: "No Corruption, No Concessions, No Tiers."
+Since 2019, a dozen UAW top officials were investigated and convicted in federal court of taking at least $3.5 million in illegal deals and/or stealing $1.5 million in union funds. 
 
-With the involvement of the US Justice Department, the reform caucus pushed for direct election of UAW top leaders, known as One Member, One Vote. 
+After the scandal out in 2019, rank-and-file organizers in UAW formed a reform caucus: Unite All Workers for Democracy (UAWD). Their slogan is: "No Corruption, No Concessions, No Tiers."
+
+With the involvement of the US Justice Department, the reform caucus pushed for direct election of UAW top leaders, known as "One Member, One Vote". They believe the way to clear out corruption was to let the members vote.
 
 In 2021 Dec, the reform caucus won the referendum for One Member, One Vote. 
 
-In 2023 March, the reform caucus also won the election of UAW president.
+In 2023 Mar, the reform caucus also won the election of UAW president.
 
 In 2023 Nov, the reform caucus led and won the Big 3 contract.
+
+References:
 
 * [One Member, One Vote: Taking Back Our Union](
 https://againstthecurrent.org/atc214/one-member-one-vote-taking-back-our-union/)

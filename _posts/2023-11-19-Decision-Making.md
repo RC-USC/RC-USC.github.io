@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Email update -- Wage and decision making
+title: "Email update: Wage and decision making"
 tags: [update]
 comments: true
 author: Reform Caucus at USC
@@ -11,7 +11,7 @@ Thank you for signing up for our update. This unofficial email update was create
 
 ## Wage proposal:
 Here is the latest wage proposal from our union and from USC:
-![Hard Picketline]({{ '/assets/bargaining_2023/2023-11-21-wage.png' | relative_url }})
+![Wage drop]({{ '/assets/bargaining_2023/2023-11-21-wage.png' | relative_url }})
 
 For more detail on the progression of the bargaining in the past two days, please check out the eight proposals from both parties at the [tracker](https://docs.google.com/spreadsheets/d/1HaaQDQepdNRMJFlbOMgNtCpJwMz3YuHJCudtEA3uYcw/edit#gid=0) (wage is at last line).
 
@@ -38,7 +38,7 @@ Date: 11/29 at UPC, 11/30 at HSC. Location: to be announced.
 * USC student organizations to follow on instagram: [Trojans for Palestine](https://www.instagram.com/trojansforpalestine/), [Graduate in Solidarity with Palestine](https://www.instagram.com/uscgraduatesforpalestine/), [SCALE](https://www.instagram.com/uscscale/)
 
 If you think our update is helpful, you can share the [link](https://docs.google.com/document/d/1S6H7P4qh5Xyn0CHujEPhjqU6iaR6mg6jKyNQS-UeqY8/edit?usp=sharing) with others. Here is the [sign up form](https://forms.gle/CfzU3oK7Cr8sn9CE6) for our update.
-If you want to discuss more and contribute to future emails, you can join our chat groups on [Whatsapp](https://chat.whatsapp.com/Fk7AdCrVisA519IgtdsDKY) and [Signal](https://signal.group/#CjQKILERe-8ui_8j_B4d1TbLWMmvmO_MDnG6cC52xIufdzgBEhCbwhMoStnaqWYOvqzcT6Zd).
+If you want to discuss more and contribute to future emails, you can join our chat groups on [Whatsapp](https://chat.whatsapp.com/Fk7AdCrVisA519IgtdsDKY) and Signal.
 
 In solidarity!
 

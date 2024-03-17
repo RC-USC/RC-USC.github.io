@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Archive) Statement of Values (2021)
+title: "[Archive] Statement of Values (2021)"
 tags: [archive]
 comments: true
 author: GSWOC
