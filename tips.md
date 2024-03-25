@@ -50,8 +50,8 @@ Don't assume anything, be humble, ask more open-ended questions, and encourage p
 * **Decision making**: This is a good comparison of different [decision-making methods](https://www.sociocracyforall.org/decision-making-methods-comparison/). At another USC student org, we proposed a hybrid voting method, people who on zoom can vote. For people who failed to join the meeting, they can vote by emoji reactions within 24 hours. Everyone can make proposals for people to vote.
 
 ## Organizing Skill
-Conflict resolution or How to work together while having disagreement. [slide](https://docs.google.com/presentation/d/1EzlI3GWgmUghoPtQxzEzmPe20padIpV7P6DAzYKMxy4/edit?usp=sharing)
-
+* Conflict resolution or How to work together while having disagreement. [slide](https://docs.google.com/presentation/d/1EzlI3GWgmUghoPtQxzEzmPe20padIpV7P6DAzYKMxy4/edit?usp=sharing)
+* involvement in decision making can lead to commitment, greater innovation, and productivity.
 ## Aim for the bullseye:
 From the organizer’s point of view, think of your fellow members distributed on a dartboard. **Your goal is always to move people one step closer to the center of the circle.**
 

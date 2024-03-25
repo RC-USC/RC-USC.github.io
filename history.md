@@ -2,7 +2,7 @@
 layout: page
 title: How this Caucuse was formed 
 comments: true
-author: Reform Caucus at USC
+author: Reform Caucus at USC GSWOC
 ---
 ## International student
 A few Chinese international graduate student workers (GSWs) started to mobilize Chinese students to form a union since Spring of 2019. In the spring of 2022, they realized that international students are an important part of our campus, but usually get marginalized in decision making at all level.

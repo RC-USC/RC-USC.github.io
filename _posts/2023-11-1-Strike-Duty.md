@@ -3,7 +3,7 @@ layout: post
 title: Strike duty and Strike pay
 tags: [update]
 comments: true
-author: Reform Caucus at USC
+author: Reform Caucus at USC GSWOC
 ---
 For the strike duties required to get strike pay, Our staff mentioned UAW standard is 20 hours for higher education. But the bargaining team can decide how many hours are needed. 
 

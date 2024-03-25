@@ -1,11 +1,27 @@
 ---
 layout: post
-title: Know Your Right Training with union reform perspective
+title: Know Your Right Training and Grievance filling
+subtitle: from a union reform perspective
 tags: [update]
 comments: true
-author: Reform Caucus at USC
+author: Reform Caucus at USC GSWOC
+sticky: true
 ---
-The most important thing after bargaining is contract enforcement. Know Your Right Training talks about the key protection provided by our contract and how to fight back when it gets violated. I added contents to the campus-wide slide, in order to encourage union members to get involved and shift towards an bottom-up [organizing model](https://rc-usc.github.io/high_ed_reform/).
+
+# Learn our contract protection
+* For Chinese students, you can follow us on Wechat "USC GSWOC 的留学生们" and message "grievance" for a summary of protection in Mandarine.
+* For others, you can contact your department organizer for a know your right training. Also, There will be a webpage about grievance on our union website. 
+* If your department organizer couldn't help, you can fill in this [form](https://forms.gle/EwGHDbxaq6ax5GQs8). We will contact you.
+
+We are also trying to build up an internal list of abusive advisors, so department organizers can check-in with their students regularly and see if advisor is doing bad things again. You can email us for access <reform.caucus.at.usc.gswoc@proton.me>
+
+# Fill a grievance
+* You can contact your department organizer. In the future it will be your steward.
+* If your department organizers couldn't help, the suggestion is to email info@gswoc-usc.org
+* For Chinese students, if you want someone who can speak Mandarine, feel free to message us on Wechat "USC GSWOC 的留学生们".
+
+# Our Thoughts
+Know Your Right Training talks about the key protection provided by our contract and how to fight back when it gets violated. I added some contents to the slide, encouraging people to get involved and shifting towards an bottom-up [organizing model](https://rc-usc.github.io/high_ed_reform/).
 
 ## Encourage people to talk with their coworkers (Building a support network/community)
 Last year, I met an UC mom who is an international student. She told me, she didn't know about parental leave when she gave birth to a child. No one told her about it, she didn't know and suffered a lot. 

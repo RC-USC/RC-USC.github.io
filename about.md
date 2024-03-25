@@ -19,14 +19,15 @@ Read more about [Union reform in UAW](https://rc-usc.github.io/uaw_reform) and [
 
 **Support marginalized workers**
 
-* **We want to realize promises.** In 2023 bargaining, the bargaining team responded to many demands by saying, "It is difficult to bargain, we can fight for it as a union after this bargaining", and "We can provide this as a union”. We listed those promises [here](https://rc-usc.github.io/issues_left).
+* **Realize promises.** In 2023, the bargaining team responded to many demands of International students by saying, "It is difficult to bargain, we can fight for it as a union after this bargaining", and "We can provide this as a union”. We listed those promises [here](https://rc-usc.github.io/issues_left).
 
-* **We want to change union culture.** People get into conversations like: "better wage can benefit everyone"; win as many core demands as possible. We want people to be empowered and demands to be kept at the bargaining table till the last minute. We don't want to lower the priority of demands from marginalized community. 
+* **Empower marginalized workers.** When discussing about bargaining for better healthcare, people get into conversations like, "better wage can benefit everyone", thus healthcare may be put into lower priority; When asking bargaining team why things related to International students were dropped, the answer was "to win as many core demands as possible". We want marginalized workers to be empowered and their demands to be kept at the bargaining table till the last minute. 
 
-* **We want to be a platform for workers to campaign for themselves.** We are happy to help organize events and advertising events through our platform.
-
+**Change our union culture**
+* **Create a safe community.** Many people, especially International students, are not willing to tell organizers what they think and how they feel. We want to create a safe organizing space for our people and all our organizers to truly listen. So we can really hear people.
+* **Bottom-up and critical-thinking.** In 2023,  "Orders" to do X,Y,Z was given from bargaining team / steering committee to organizers at department-level. Many of our organizers organized like dealing with KPI (Key Performance Indicator), e.g. just ask people to sign on things with little explaination.
 # Contact
-You can email us at reform.caucus.at.usc.gswoc@proton.me
+You can email us at <reform.caucus.at.usc.gswoc@proton.me>
 
 Email update [**sign up**](https://forms.gle/kipC9gJbQqYJ9otY7)
 

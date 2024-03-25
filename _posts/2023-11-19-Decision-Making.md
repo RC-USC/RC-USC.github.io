@@ -3,7 +3,7 @@ layout: post
 title: "Email update: Wage and decision making"
 tags: [update]
 comments: true
-author: Reform Caucus at USC
+author: Reform Caucus at USC GSWOC
 ---
 Hi,
 Thank you for signing up for our update. This unofficial email update was created by rank and file organizers to share information and help people to participate in the bargaining process.

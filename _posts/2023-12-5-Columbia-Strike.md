@@ -3,7 +3,7 @@ layout: post
 title: Columbia Strike
 tags: [update]
 comments: true
-author: Reform Caucus at USC
+author: Reform Caucus at USC GSWOC
 ---
 
 # Strategies
