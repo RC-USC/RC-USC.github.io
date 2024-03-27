@@ -9,16 +9,15 @@ sticky: true
 ---
 
 # Learn our contract protection
-* For Chinese students, you can follow us on Wechat "USC GSWOC 的留学生们" and message "grievance" for a summary of protection in Mandarine.
+* For Chinese students, 关注微信公众号 "USC GSWOC 的留学生们"。 后台回复 "grievance" ，自动回复一份中文的合同保护总结。如果你希望有说中文的同学协助 fill grievance , 可以在微信公众号后台留言我们。
 * For others, you can contact your department organizer for a know your right training. Also, There will be a webpage about grievance on our union website. 
-* If your department organizer couldn't help, you can fill in this [form](https://forms.gle/EwGHDbxaq6ax5GQs8). We will contact you.
+* If your department organizer couldn't help, you can fill in this [form](https://forms.gle/EwGHDbxaq6ax5GQs8). We will contact you. Here is a [handout for print](https://docs.google.com/document/d/1FTeJu-qrXccpN8LMhtQP9jDfcXP5aji6q3tVxruWpvQ/edit)
 
 We are also trying to build up an internal list of abusive advisors, so department organizers can check-in with their students regularly and see if advisor is doing bad things again. You can email us for access <reform.caucus.at.usc.gswoc@proton.me>
 
 # Fill a grievance
 * You can contact your department organizer. In the future it will be your steward.
 * If your department organizers couldn't help, the suggestion is to email info@gswoc-usc.org
-* For Chinese students, if you want someone who can speak Mandarine, feel free to message us on Wechat "USC GSWOC 的留学生们".
 
 # Our Thoughts
 Know Your Right Training talks about the key protection provided by our contract and how to fight back when it gets violated. I added some contents to the slide, encouraging people to get involved and shifting towards an bottom-up [organizing model](https://rc-usc.github.io/high_ed_reform/).
