@@ -7,7 +7,7 @@ author: Reform Caucus at USC GSWOC
 ## International student
 A few Chinese international graduate student workers (GSWs) started to mobilize Chinese students to form a union since Spring of 2019. In the spring of 2022, they realized that international students are an important part of our campus, but usually get marginalized in decision making at all level.
 
-As in Fall 2022, [51% percents](https://graduateschool.usc.edu/about-us/phd-program-characteristics/) of newly enrolled PhD students are international. 
+As in Fall 2022, [51% percent](https://graduateschool.usc.edu/about-us/phd-program-characteristics/) of newly enrolled PhD students are international. 
 
 They found that in other unions, many of international students' demands were dropped during the bargaining. They believe that international students should organize themself to have their voice in our union and in campus activities. So, they started the **GSWOC International Student Committee** with students from other countries, with the goal of organizing and advocating for international students. 
 

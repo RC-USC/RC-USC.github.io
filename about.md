@@ -15,11 +15,15 @@ We are organizers in GSWOC who believe in:
 We want more union members to join the decision-making process of anything related to themselves.
 We aim to increase the transparency and accessibility of the decision-making process.
 
-We pushed for direct democracy. E.g. if some people at Engineering think the wage proposal is too low, we can ask for a campus-wide vote, requesting the bargaining team not to lower the wage proposal. 
+We pushed for direct democracy in our union bylaw. E.g. If some people at Engineering think the wage proposal is too low, we can ask for a campus-wide vote, requesting the bargaining team not to lower the wage proposal. 
 Other unions, University of Columbia, University of Michigan, have similar voting procedures.
 
 
 Read more about [Union reform in UAW](https://rc-usc.github.io/uaw_reform) and [Union reform in other university](https://rc-usc.github.io/high_ed_reform)
+
+**International student representation**
+
+As in Fall 2022, [51% percent](https://graduateschool.usc.edu/about-us/phd-program-characteristics/) of newly enrolled PhD students are international. But in the initial bargaining team, only 1 out of 15 was international. It was later increased to 2 out of 15. We want to create an inclusive and supportive union space for international students. 
 
 **Support marginalized workers**
 
@@ -37,7 +41,7 @@ Email update [**sign up**](https://forms.gle/kipC9gJbQqYJ9otY7)
 
 ### Chat groups
 We have a group on [Whatsapp](https://chat.whatsapp.com/Fk7AdCrVisA519IgtdsDKY). 
-For wechat group, please email us to be added.
+微信群，关注微信公众号 "USC GSWOC 的留学生们"。 后台回复 "入群"。
 
 <p float="left">
   <img src="{{ 'assets/groupQR/whatsapp.jpg' | relative_url }}" alt="Whatsapp" />

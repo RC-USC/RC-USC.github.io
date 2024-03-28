@@ -5,7 +5,7 @@ title: GSWOC International Student Committee email backup
 In the spring of 2022, a group of international students realized that they are an important part of our campus but usually get marginalized in decision making.
 They believe that international students should organize themself to have their voice in our union and in campus activities. So, they started the **GSWOC International Student Committee** with the goal of organizing and advocating for international students. 
 
-As in Fall 2022, [51% percents](https://graduateschool.usc.edu/about-us/phd-program-characteristics/) of newly enrolled PhD students are international. 
+As in Fall 2022, [51% percent](https://graduateschool.usc.edu/about-us/phd-program-characteristics/) of newly enrolled PhD students are international. 
 
 
 The committee is a place for international students to discuss any issues related to their lives and organize to make things better. They organized events for international students to ask questions about the union; and events for discussions about things people want to change via bargaining.
