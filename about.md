@@ -15,6 +15,10 @@ We are organizers in GSWOC who believe in:
 We want more union members to join the decision-making process of anything related to themselves.
 We aim to increase the transparency and accessibility of the decision-making process.
 
+We pushed for direct democracy. E.g. if some people at Engineering think the wage proposal is too low, we can ask for a campus-wide vote, requesting the bargaining team not to lower the wage proposal. 
+Other unions, University of Columbia, University of Michigan, have similar voting procedures.
+
+
 Read more about [Union reform in UAW](https://rc-usc.github.io/uaw_reform) and [Union reform in other university](https://rc-usc.github.io/high_ed_reform)
 
 **Support marginalized workers**
