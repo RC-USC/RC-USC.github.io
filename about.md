@@ -23,7 +23,7 @@ Read more about [Union reform in UAW](https://rc-usc.github.io/uaw_reform) and [
 
 **International student representation**
 
-As in Fall 2022, [51% percent](https://graduateschool.usc.edu/about-us/phd-program-characteristics/) of newly enrolled PhD students are international. But in the initial bargaining team, only 1 out of 15 was international. It was later increased to 2 out of 15. We want to create an inclusive and supportive union space for international students. 
+As in Fall 2022, [51% percent](https://graduateschool.usc.edu/about-us/phd-program-characteristics/) of newly enrolled PhD students are international. But in the initial bargaining team, only 1 out of 15 was international. It was later increased to 2 out of 15. We want to create an inclusive and supportive union space for international students. This Reform Caucus was started by International students from the [GSWOC international student committee](https://rc-usc.github.io/isc_email_index/), which no longer exists in our union.
 
 **Support marginalized workers**
 
