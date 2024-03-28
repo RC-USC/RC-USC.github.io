@@ -25,7 +25,7 @@ Read more about [Union reform in UAW](https://rc-usc.github.io/uaw_reform) and [
 
 **Change our union culture**
 * **Create a safe community.** Many people, especially International students, are not willing to tell organizers what they think and how they feel. We want to create a safe organizing space for our people and all our organizers to truly listen. So we can really hear people.
-* **Bottom-up and critical-thinking.** In 2023,  "Orders" to do X,Y,Z was given from bargaining team / steering committee to organizers at department-level. Many of our organizers organized like dealing with KPI (Key Performance Indicator), e.g. just ask people to sign on things with little explaination.
+* **Bottom-up and critical-thinking.** In 2023, organizers at department-level were given tasks by bargaining team / steering committee in a top-down way. Many of our organizers collect signature like KPI (Key Performance Indicator), just ask people to sign on things with little explaination.
 # Contact
 You can email us at <reform.caucus.at.usc.gswoc@proton.me>
 
