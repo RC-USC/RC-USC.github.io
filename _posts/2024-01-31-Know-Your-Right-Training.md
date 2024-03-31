@@ -11,7 +11,7 @@ sticky: true
 # Learn our contract protection
 * [A Flyer about Contract Protection](https://docs.google.com/document/d/1FTeJu-qrXccpN8LMhtQP9jDfcXP5aji6q3tVxruWpvQ/edit)
 * For Chinese students, 关注微信公众号 "USC GSWOC 的留学生们"。 后台回复 "grievance" ，自动回复一份中文的[合同保护总结](https://mp.weixin.qq.com/s/DJE1ziLUNeckGTvXSPMZeQ)。如果你希望有说中文的同学协助 fill grievance , 可以在微信公众号后台留言我们。
-* You can contact your department organizer for a know your right training. Also, There will be a webpage about grievance on our union website. If your department organizer couldn't help, you can fill in this [form](https://forms.gle/EwGHDbxaq6ax5GQs8). We will contact you.
+* You can contact your department organizer for a know your right training. Also, There will be a [webpage](https://www.gswoc-usc.org/contract-enforcement/) on our union website. If your department organizer couldn't help, you can fill in this [form](https://forms.gle/EwGHDbxaq6ax5GQs8). We will contact you.
 
 We are also trying to build up an internal list of abusive advisors, so department organizers can check-in with their students regularly and see if advisor is doing bad things again. You can email us for access <reform.caucus.at.usc.gswoc@proton.me>
 
