@@ -33,7 +33,8 @@ As in Fall 2022, [51% percent](https://graduateschool.usc.edu/about-us/phd-progr
 
 **Change our union culture**
 * **Create a safe community.** Many people, especially International students, are not willing to tell organizers what they think and how they feel. We want to create a safe organizing space for our people and all our organizers to truly listen. So we can really hear people.
-* **Bottom-up and critical-thinking.** In 2023, organizers at department-level were given tasks by bargaining team / steering committee in a top-down way. Many of our organizers collect signature like KPI (Key Performance Indicator), just ask people to sign on things with little explaination.
+* **Bottom-up and critical-thinking.** In 2023, organizers at department-level were given tasks by bargaining team / steering committee in a top-down way. Many of our organizers collect signature like KPI (Key Performance Indicator), just ask people to sign on things with little explaination. We need more thinking in this process. People should know why.
+
 # Contact
 You can email us at <reform.caucus.at.usc.gswoc@proton.me>
 
