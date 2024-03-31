@@ -20,10 +20,11 @@ author: Reform Caucus at USC GSWOC
 ###############################################
 
 navbar-links:
+  Grievance & Protection: "https://rc-usc.github.io/2024-01-31-Know-Your-Right-Training/"
   About:
     - About Us: "about"
     - Our history: "history"
-  Email Update / Join chat: "https://forms.gle/kipC9gJbQqYJ9otY7"
+    - Email Update / Join chat: "https://forms.gle/kipC9gJbQqYJ9otY7"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
