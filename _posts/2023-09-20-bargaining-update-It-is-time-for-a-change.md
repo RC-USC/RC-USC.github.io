@@ -3,10 +3,11 @@ layout: post
 title: "Bargaining Update: It is time for a change"
 tags: [update]
 comments: true
-author: R
+author: Rao
 ---
->This email was sent to the international student committee and steering committee channel (moved to forum channel) at Step 25th before the massive membership meeting. 
-I tried sending it to GSWOC general mailing list after strike authorization vote on Oct 27th. But the bargaining team rejected it. 
+>At Sep 25th, before the massive membership meeting, this email was sent to the international student committee and steering committee channel (moved to forum channel by bargaining team).
+ 
+>After strike authorization vote on Oct 27th, I tried sending it to GSWOC general, which is internal for union organizers. But the bargaining team rejected it. 
 
 Hi everyone,
 
@@ -31,6 +32,7 @@ Dropped demands:
 Weakened demands:
 
 * Taxing: OIS also offers and will continue to offer tax workshops
+
 Currently, OIS offers it by a private company. The workshop is about how to use their software and sell it to international students. This isn’t what we want.
 * Re-employment of international students fired due to immigration status:
 >Whether a eligible Graduate Student Worker is selected for an available position under this section is not subject to arbitration under Article (Grievance and Arbitration)
@@ -52,6 +54,7 @@ BT members said the immigration article is still at priority and will stay on th
 There is only little difference between the USC’s proposal and ours: 
 * USC: taxing workshop once a year. BT: twice a year. 
     * We only fill tax once a year, we think this is not meaningful.
+
 Fund for immigration and legal expenses. 
 * USC: $10,000/year. BT: $40,000/year.
     * Compared with wages, this is trivial for USC. Financially, The gap is only about $10 a year per GSW.

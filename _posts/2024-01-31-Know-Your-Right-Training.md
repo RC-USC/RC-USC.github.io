@@ -19,7 +19,7 @@ We are also trying to build up an internal list of abusive advisors, so departme
 * You can contact your department organizer. In the future it will be your steward.
 * If your department organizers couldn't help, the suggestion is to email info@gswoc-usc.org
 
-# Our Thoughts
+## Thoughts(Rao)
 Know Your Right Training talks about the key protection provided by our contract and how to fight back when it gets violated. I added some contents to the slide, encouraging people to get involved and shifting towards an bottom-up [organizing model](https://rc-usc.github.io/high_ed_reform/).
 
 ## Encourage people to talk with their coworkers (Building a support network/community)
@@ -27,7 +27,7 @@ Last year, I met an UC mom who is an international student. She told me, she did
 
 I realized that, in reality, it is very difficult to let everyone know every right under the contract. Especially for marginalized community, like parents, they may have little capacity for union activity. The same is true for international students, who are facing language barrier and are less involved in union activity compared with domestic students. 
 
-In my department, I'm pushing for at least one person in one lab joining the training and understand these rights. The person can then tell parents in their lab about child care benefit and parental leave. (It may be difficult for union to know or maintain those personal information. .e.g. it will be a privacy concern if we keep track of who has kids) Ultimately, we should build a support network – a community where people support each other.
+In my department, I'm encouraging people to tell parents in their lab about child care benefit and parental leave. (It may be difficult for union to know or maintain those personal information. .e.g. it will be a privacy concern if we keep track of who has kids) Ultimately, we should build a support network – a community where people support each other.
 
 ![Slide]({{ '/assets/know_your_right/talk_with_coworker.PNG' | relative_url }})
 

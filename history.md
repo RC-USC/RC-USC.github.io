@@ -7,11 +7,13 @@ author: Reform Caucus at USC GSWOC
 ## International student
 A few Chinese international graduate student workers (GSWs) started to mobilize Chinese students to form a union since Spring of 2019. In the spring of 2022, they realized that international students are an important part of our campus, but usually get marginalized in decision making at all level.
 
-As in Fall 2022, [51% percent](https://graduateschool.usc.edu/about-us/phd-program-characteristics/) of newly enrolled PhD students are international. 
+In the last 10 years (2012-2022), 50~52% percent of enrolled PhD students are international, except 2020, only 49% are international due to covid. (the most recent data published on [USC website](https://graduateschool.usc.edu/about-us/phd-program-characteristics/))
 
 They found that in other unions, many of international students' demands were dropped during the bargaining. They believe that international students should organize themself to have their voice in our union and in campus activities. So, they started the **GSWOC International Student Committee** with students from other countries, with the goal of organizing and advocating for international students. 
 
 The committee is a place for international students to discuss any issues related to their lives and organize to make things better. They organized events for international students to ask questions about the union; and events for discussions about things people want to change via bargaining.
+
+However, only 1 in the 15 bargaining team members was international, and it later became 2 in 15. And, there is no international student in the interim executive board.
 
 During the bargaining, some of them realized a democratic & transparent union and social-justice unionism is important for advocating the rights of marginalized workers. Also, without a democratic & transparent union, it is impossible to win issues like wages that impact everyone. Especially after connecting with other groups and experiencing the intersection of identities, they began to build coalition and started this caucus. [1](https://rc-usc.github.io/2023-09-20-bargaining-update-It-is-time-for-a-change/)[2](https://www.tempestmag.org/2023/12/graduate-student-workers-at-usc-make-gains-in-first-ever-union-contract/)
 
