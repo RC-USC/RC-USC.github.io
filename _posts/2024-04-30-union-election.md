@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Union election 2024
-subtitle: from a union reform perspective
 tags: [update]
 comments: true
 author: Reform Caucus at USC GSWOC & International student committee
-sticky: true
 ---
 # Accountable union & International student representation
 This letter was written by a group of international students, including Rao, Sina (the only international student in the initial bargaining team), and many others. Key points:
