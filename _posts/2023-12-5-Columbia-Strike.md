@@ -6,6 +6,25 @@ comments: true
 author: Reform Caucus at USC GSWOC
 ---
 
+## Questions:
+**The Columbia contract made concessions on non-discrimination to get higher wages?**
+
+* The [TA](https://columbiagradunion.org/2021/04/23/typographical-error-correction-in-tentative-agreement/) voted down doesn't have arbitration at all. As on page 6, “shall not be subject to Article _ [Grievance and Arbitration].” 
+* The [final](https://www.studentworkersofcolumbia.com/contract) contract gets arbitration, as on page 8. (We already have similar language)
+
+**Columbia sacrificed wage increases for people at the highest pay band?**
+
+We believe they get better wage increase for everyone, as in the screenshot. 
+Please let us know if you could find any example in their contract. (links are above)
+
+
+1st TA:
+![Columbia Wage 1]({{ '/assets/bargaining_2023/columbia_2.png' | relative_url }})
+2nd TA:
+![Columbia Wage 2]({{ '/assets/bargaining_2023/columbia.png' | relative_url }})
+
+
+
 # Strategies
 Our bargaing team says it is a lengthy minority strike, so their strategies are not good. 
 But if you dig into details of the strike, the actual question here is:
